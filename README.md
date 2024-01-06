@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansishirbhate" alt="mansishirbhate" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack Web development **
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
