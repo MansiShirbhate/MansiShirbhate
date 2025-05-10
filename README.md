@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Web Devlopments,Reactjs,DSA**
+- 💬 Ask me about **Angular, Spring, SpringBoot, Mysql, Hibernate,Java, C++, Data Structure**
 
-- 📫 How to reach me **mansisshirbhate@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/mansishirbhate123/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
